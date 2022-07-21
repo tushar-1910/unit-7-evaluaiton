@@ -6,7 +6,7 @@ const Header = () => {
   const { homepage, title } = header
 
   return (
-    <header className='header center' display='fixed'>
+    <header className='header center'>
       <h3>
         {homepage ? (
           <a href="#name" style={{cursor:'pointer'}} >

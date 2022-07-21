@@ -20,7 +20,7 @@ const Skills = () => {
   if (!skills.length) return null
 
   return (
-    <section className='section skills' id='skills'>
+    <section className='section skills' id='skills' style={{paddingTop:"138px"}}>
       <h2 className='section__title'>
       <Typewriter
                     options={{

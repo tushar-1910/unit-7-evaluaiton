@@ -8,7 +8,7 @@ const Contact = () => {
   const {social } = about
 
   return (
-    <section className='section contact center' id='contact'>
+    <section className='section contact center' id='contact' style={{paddingTop:"138px"}}>
       <h2 className='section__title'>Contact</h2>
       <div className='contact_section'>
       <a href={`mailto:${contact.email}`}>

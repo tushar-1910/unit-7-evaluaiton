@@ -19,8 +19,7 @@ const about = {
   photo: aboutpic,
   name: 'TUSHAR AGARWAL',
   role: 'A Full Stack Developer.',
-  description:
-    "During High school, I had computer science as one of my subjects, where I got to learn Programming with C++ and how to give instructions to a computer by writing code. So from there, I got an interest in coding and problem-solving. I joined Masai School in Nov 2021 which has the best intense and immersive curriculum when it comes to web development. Now, I proudly state that I am a Full Stack Web Developer pursuing MERN stack who is enthusiastic, aspiring, analytical and detail-oriented. I'm capable of working with interdisciplinary teams and executing goal-oriented projects and having the required technical skills to write codes using HTML, CSS, React and JavaScript from the front-end stack applications also NodeJS, ExpressJS and MongoDB from the back-end stack applications. I am passionate about coding and strongly interested in obtaining a Software Developer position to work on enhancing the product experience.",
+  description:"I am a Full Stack Developer, passionate about building digital products that improve the everyday experience for people.I am a quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.",
   resume: 'https://drive.google.com/file/d/1YmvQk8tt8B39NTb5e1f_uz98Klj1S5jv/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/tushar19/',

@@ -1,6 +1,7 @@
 .about_ {
   flex-direction: column;
   margin-top: 3em;
+  padding-top: 138px;
   height: 630px;
 }
 

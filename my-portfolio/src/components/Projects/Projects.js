@@ -8,7 +8,7 @@ const Projects = () => {
   if (!projects.length) return null
 
   return (
-    <section id='projects' className='section projects'>
+    <section id='projects' className='section projects' style={{paddingTop:"138px"}}>
       <h2 className='section__title'>
       <Typewriter
                     options={{
